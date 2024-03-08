@@ -19,6 +19,13 @@
             <version>${jakartaee}</version>
             <scope>provided</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.heroku/webapp-runner -->
+        <dependency>
+            <groupId>com.heroku</groupId>
+            <artifactId>webapp-runner</artifactId>
+            <version>10.1.18.0</version>
+        </dependency>
+
     </dependencies>
     
     <build>
