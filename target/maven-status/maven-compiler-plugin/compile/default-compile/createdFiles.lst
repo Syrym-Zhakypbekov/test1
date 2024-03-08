@@ -1,2 +1,4 @@
-edu\university\test1\resources\JakartaEE10Resource.class
+edu\university\test1\Home.class
 edu\university\test1\JakartaRestConfiguration.class
+edu\university\test1\DatabaseConnection.class
+edu\university\test1\resources\JakartaEE10Resource.class

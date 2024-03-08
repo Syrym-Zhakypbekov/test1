@@ -4,9 +4,17 @@
         <servlet-name>Home</servlet-name>
         <servlet-class>edu.university.test1.Home</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>DatabaseConnection</servlet-name>
+        <servlet-class>edu.university.test1.DatabaseConnection</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Home</servlet-name>
         <url-pattern>/home</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DatabaseConnection</servlet-name>
+        <url-pattern>/DatabaseConnection</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
