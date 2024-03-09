@@ -1,0 +1,2 @@
+edu.university.test1.JakartaRestConfiguration=jakarta.ws.rs.ApplicationPath
+edu.university.test1.resources.JakartaEE10Resource=jakarta.ws.rs.Path
