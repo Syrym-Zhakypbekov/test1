@@ -1,0 +1,5 @@
+runtime: java11 # Or the supported version of your choice
+env: flex 
+
+# This assumes a standard Spring Boot WAR that's executable
+entrypoint: 'java -jar app.jar' 
